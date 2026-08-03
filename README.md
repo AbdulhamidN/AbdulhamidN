@@ -67,8 +67,7 @@ I am a passionate developer who loves bridging the gap between beautiful user in
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out!
 
 - **LinkedIn**: [linkedin.com/in/[your-profile]]([ https://www.linkedin.com/in/hameednkl])
-- **Portfolio**: [[your-portfolio].com]([hamidnuri.netlify.app])
-- **Email**: [[your-email]](mailto:[Abdulhamidnurik@gmail.com])
+
 
 ---
 *⭐️ Feel free to check out my repositories and leave a star if you find something useful!*
