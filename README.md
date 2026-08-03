@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm Abdulhamid Nuri 👋</h1>
+<h1 align="center">Hi there, I'm Abdulhamid 👋</h1>
 
 <p align="center">
-  <b>Full-Stack Web & Mobile App Developer</b><br>
+  <b>Full-Stack Developer</b><br>
   Crafting seamless cross-platform experiences from the ground up.
 </p>
 
 <p align="center">
-  <a href="[YOUR-LINKEDIN-URL]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="[YOUR-PORTFOLIO-URL]"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:[YOUR-EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="[ https://www.linkedin.com/in/hameednkl]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[hamidnuri.netlify.app]"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:[Abdulhamidnurik@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -17,8 +17,8 @@
 
 I am a passionate developer who loves bridging the gap between beautiful user interfaces and robust backend systems. Whether it's building a dynamic web app with React or a native-feeling mobile experience with Flutter, I enjoy owning the full development lifecycle.
 
-- 🔭 I’m currently working on **[Your Current Project]**.
-- 🌱 I’m currently exploring **[Something you are learning]**.
+- 🔭 I’m currently working on **[Digital Learning using AI]**.
+- 🌱 I’m currently exploring **[AI and digital education]**.
 - 💬 Ask me about **Full-stack architectures, Cross-platform mobile dev, or Spring Boot**.
 
 ---
@@ -49,21 +49,9 @@ I am a passionate developer who loves bridging the gap between beautiful user in
 ### 🗄️ Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-Here are a few projects that highlight my full-stack and mobile capabilities:
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project Name 1](Link-to-Repo)** | A brief, punchy description of what this app does and the problem it solves. | React, Node.js, MongoDB |
-| **[Project Name 2](Link-to-Repo)** | Describe the mobile app, focusing on the UI/UX and native functionality. | Flutter, Dart, Firebase |
-| **[Project Name 3](Link-to-Repo)** | Highlight a backend-heavy project, e.g., a REST API or microservice. | Java, Spring Boot, SQL |
-
----
 
 ## 📊 GitHub Stats
 
@@ -78,9 +66,9 @@ Here are a few projects that highlight my full-stack and mobile capabilities:
 
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out!
 
-- **LinkedIn**: [linkedin.com/in/[your-profile]]([YOUR-LINKEDIN-URL])
-- **Portfolio**: [[your-portfolio].com]([YOUR-PORTFOLIO-URL])
-- **Email**: [[your-email]](mailto:[YOUR-EMAIL])
+- **LinkedIn**: [linkedin.com/in/[your-profile]]([ https://www.linkedin.com/in/hameednkl])
+- **Portfolio**: [[your-portfolio].com]([hamidnuri.netlify.app])
+- **Email**: [[your-email]](mailto:[Abdulhamidnurik@gmail.com])
 
 ---
 *⭐️ Feel free to check out my repositories and leave a star if you find something useful!*
