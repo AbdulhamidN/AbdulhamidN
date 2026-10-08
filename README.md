@@ -56,8 +56,8 @@ I am a passionate developer who loves bridging the gap between beautiful user in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulhamid-Nuri&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhamid-Nuri&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulhamidN&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulhamidN&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
