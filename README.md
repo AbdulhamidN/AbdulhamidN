@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, Welcome! </h1>
+<h1>Hi there 👋, Welcome! </h1>
 
 <p>
   <b>Full-Stack Developer</b><br>
