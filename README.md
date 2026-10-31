@@ -1,26 +1,17 @@
 <h1>Hi there 👋, Welcome! </h1>
 
 
-<p>
-  <b>Full-Stack Developer</b><br>
-  Crafting seamless cross-platform experiences from the ground up.
-</p>
-
-<p align="center">
-  <a href="[ https://www.linkedin.com/in/hameednkl]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="[hamidnuri.netlify.app]"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:[Abdulhamidnurik@gmail.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me:
 
 I am a passionate developer who loves bridging the gap between beautiful user interfaces and robust backend systems. Whether it's building a dynamic web app with React or a native-feeling mobile experience with Flutter, I enjoy owning the full development lifecycle.
 
+- 🔭 Focused on designing and building practical, scalable, and impactful applications from scratch.
 - 🔭 I’m currently working on **[Digital Learning using AI]**.
 - 🌱 I’m currently exploring **[AI and digital education]**.
-- 💬 Ask me about **Full-stack architectures, Cross-platform mobile dev, or Spring Boot**.
+- 💬 Ask me about **MERN-stack Software development, Cross-platform mobile devs **.
 
 ---
 
@@ -47,19 +38,13 @@ I am a passionate developer who loves bridging the gap between beautiful user in
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulhamidN&theme=radical" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulhamidN&theme=radical&hide_border=true" width="100%" />
 </p>
 
 ---
 
 
-## 📫 Let's Connect
-
-## 🌐 Socials
+## 📫 Let's Connect:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hameednkl" target="_blank">
