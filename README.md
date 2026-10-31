@@ -44,7 +44,7 @@ I am a passionate developer who loves bridging the gap between beautiful user in
 ---
 
 
-## 📫 Let's Connect:
+## Have something to say, feel free to reach out!
 
 <p>
   <a href="https://www.linkedin.com/in/hameednkl" target="_blank">
@@ -67,6 +67,6 @@ I am a passionate developer who loves bridging the gap between beautiful user in
 ---
 
 <p >
-  ⭐ Have something to say, feel free to reach out!
+  ⭐⭐⭐
 </p>
 
