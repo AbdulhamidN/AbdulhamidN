@@ -1,4 +1,4 @@
-<h1>Hi there 👋, Welcome! </h1>
+<h2>Hi there 👋, Welcome! </h2>
 
 
 
@@ -46,7 +46,7 @@ I am a passionate developer who loves bridging the gap between beautiful user in
 
 ## 📫 Let's Connect:
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/hameednkl" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
@@ -70,7 +70,7 @@ I am a passionate developer who loves bridging the gap between beautiful user in
 
 ---
 
-<p align="center">
+<p >
   ⭐ Have something to say, feel free to reach out!
 </p>
 
