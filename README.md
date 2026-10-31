@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, Welcome! </h1>
 
-<p align="center">
+<p>
   <b>Full-Stack Developer</b><br>
   Crafting seamless cross-platform experiences from the ground up.
 </p>
