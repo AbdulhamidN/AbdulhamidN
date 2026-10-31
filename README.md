@@ -9,8 +9,8 @@
 I am a passionate developer who loves bridging the gap between beautiful user interfaces and robust backend systems. Whether it's building a dynamic web app with React or a native-feeling mobile experience with Flutter, I enjoy owning the full development lifecycle.
 
 - 🔭 Focused on designing and building practical, scalable, and impactful applications from scratch.
-- 🔭 I’m currently working on **[Digital Learning using AI]**.
-- 🌱 I’m currently exploring **[AI and digital education]**.
+- 🔭 I’m currently working on **Digital Learning using AI**.
+- 🌱 I’m currently exploring **AI and digital education**.
 - 💬 Ask me about **MERN-stack Software development, Cross-platform mobile devs **.
 
 ---
@@ -57,10 +57,6 @@ I am a passionate developer who loves bridging the gap between beautiful user in
   &nbsp;
   <a href="https://www.instagram.com/abdnklb/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/profile.php?id=61564677597791" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" />
   </a>
   &nbsp;
   <a href="mailto:abdulhamidnurik@gmail.com">
