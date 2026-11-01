@@ -67,6 +67,6 @@ I am a passionate developer who loves bridging the gap between beautiful user in
 ---
 
 <p >
-  ⭐⭐⭐
+  ⭐⭐⭐⭐⭐
 </p>
 
