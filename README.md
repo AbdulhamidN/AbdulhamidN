@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me:
 
-I am a developer who loves bridging the gap between beautiful user interfaces and robust backend systems. Whether it's building a dynamic web app with React or a native-feeling mobile experience with Flutter, I enjoy owning the full development lifecycle.
+I am Abdulhamid Nuri, a Software developer who loves bridging the gap between beautiful user interfaces and robust backend systems. Whether it's building a dynamic web app with React or a native-feeling mobile experience with Flutter, I enjoy owning the full development lifecycle.
 
 - 🔭 Focused on designing and building practical, scalable, and impactful applications from scratch.
 - 🔭 I’m currently working on **Digital Learning using AI**.
