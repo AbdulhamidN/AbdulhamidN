@@ -6,12 +6,12 @@
 
 ## 👨‍💻 About Me:
 
-I am Abdulhamid Nuri, a Software developer who loves bridging the gap between beautiful user interfaces and robust backend systems. Whether it's building a dynamic web app with React or a native-feeling mobile experience with Flutter, I enjoy owning the full development lifecycle.
+I'm a Software Developer passionate about connecting intuitive user experiences with reliable, well-engineered backend systems. I enjoy building end-to-end applications, from dynamic web platforms with React to seamless cross-platform mobile experiences with Flutter.
 
-- 🔭 Focused on designing and building practical, scalable, and impactful applications from scratch.
-- 🔭 I’m currently working on **Digital Learning using AI**.
-- 🌱 I’m currently exploring **AI and digital education**.
-- 💬 Ask me about **MERN-stack Software development, Cross-platform mobile devs **.
+- 🔭 Focused on engineering practical, scalable, and user-centered applications from concept to deployment.
+- 🚀 Currently building solutions in **AI-powered Digital Learning**.
+- 🌱 Exploring the intersection of **Artificial Intelligence and Digital Education**.
+- 💬 Feel free to connect with me about **MERN Stack Development, Full-Stack Engineering, and Cross-Platform Mobile Development**.
 
 ---
 
